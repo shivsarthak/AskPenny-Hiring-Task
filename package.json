@@ -1,0 +1,17 @@
+{
+  "name": "crypto-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1",
+    "ws": "^8.13.0"
+  }
+}
